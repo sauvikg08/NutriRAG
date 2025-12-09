@@ -1,0 +1,104 @@
+food_name,food_type,serving_size,meal_type,calories_kcal,protein_g,carbs_g,fats_g,saturated_fat_g,monounsaturated_fat_g,polyunsaturated_fat_g,trans_fat_g,fiber_g,sodium_mg,calcium_mg,phosphorus_mg
+Oats Porridge,veg,100g cooked,breakfast,210,7.4,44.24,12.26,5.92,4.11,3.15,0.17,1.22,101,235,200
+Idli,veg,100g cooked,breakfast,233,8.23,12.96,9.65,3.42,2.7,1.55,0.04,4.44,298,113,337
+Dosa,veg,100g cooked,breakfast,245,8.97,12.34,6.66,1.71,1.7,1.37,0.03,4.59,115,267,77
+Upma,veg,100g cooked,breakfast,293,20.2,12.86,14.78,6.93,4.56,3.81,0.03,6.79,203,96,221
+Poha,veg,100g cooked,breakfast,306,24.12,26.64,6.28,1.79,1.97,1.54,0.12,1.8,551,203,76
+Scrambled Eggs,non-veg,100g cooked,breakfast,195,24.81,22.71,4.57,0.94,1.44,0.72,0.02,4.26,598,87,95
+Boiled Egg,non-veg,100g cooked,breakfast,164,17.61,7.9,10.77,4.64,2.74,2.44,0.17,5.35,698,37,182
+Omelette,veg,100g cooked,breakfast,337,16.7,38.35,2.99,0.89,0.79,0.77,0.05,0.83,252,94,327
+Protein Oats,veg,100g cooked,breakfast,239,19.26,24.79,8.8,2.23,3.0,2.3,0.01,4.55,287,250,20
+Paratha,veg,100g cooked,breakfast,254,19.7,7.24,9.22,3.86,1.88,2.26,0.0,6.91,163,162,244
+Chapati + Sabzi Combo,veg,100g cooked,breakfast,192,11.33,21.1,16.89,4.96,6.42,3.61,0.25,2.15,698,262,268
+Ragi Dosa,veg,100g cooked,breakfast,47,26.51,17.79,1.83,0.39,0.49,0.48,0.0,7.0,141,99,204
+Pancake,veg,100g cooked,breakfast,161,26.96,19.91,14.65,7.31,3.93,2.03,0.27,5.39,196,161,291
+Banana Smoothie,veg,1 cup,breakfast,79,11.34,43.87,9.63,2.01,2.61,1.83,0.19,4.81,88,269,347
+Protein Shake,veg,100g cooked,breakfast,338,21.19,29.77,1.45,0.51,0.45,0.27,0.02,6.2,88,124,338
+Chia Pudding,veg,100g cooked,breakfast,241,2.9,24.41,7.51,3.53,1.89,0.76,0.06,1.76,191,55,216
+Coffee (Black),veg,1 cup,breakfast,284,24.7,29.56,3.74,0.89,0.8,0.81,0.02,5.66,489,230,24
+Coffee with Milk,veg,1 cup,breakfast,286,1.08,36.17,8.85,2.97,2.25,1.92,0.1,4.98,68,174,294
+French Toast,veg,100g cooked,breakfast,169,22.41,36.35,2.41,1.06,0.85,0.52,0.01,1.45,345,83,146
+Veg Sandwich,veg,100g cooked,breakfast,196,1.98,32.64,8.17,1.64,1.77,0.84,0.05,3.41,388,271,119
+Egg Sandwich,non-veg,100g cooked,breakfast,167,19.15,32.15,7.51,2.18,1.93,1.09,0.0,3.26,507,209,214
+Masala Omelette,veg,100g cooked,breakfast,301,12.86,15.29,1.61,0.63,0.37,0.39,0.03,7.75,290,177,176
+Sabudana Khichdi,veg,100g cooked,breakfast,134,8.42,10.48,1.78,0.68,0.52,0.36,0.01,1.67,14,236,210
+Rice (Cooked),veg,100g cooked,lunch,228,11.24,23.43,15.64,5.21,4.49,3.04,0.24,2.76,362,188,53
+Brown Rice,veg,100g cooked,lunch,240,14.87,23.45,17.56,5.22,6.22,4.22,0.13,4.96,247,85,113
+Roti,veg,100g cooked,lunch,75,17.1,15.08,0.93,0.44,0.34,0.15,0.01,6.2,256,44,295
+Paneer Bhurji,veg,100g cooked,lunch,134,10.55,39.2,8.4,3.22,2.12,1.21,0.07,6.77,593,15,299
+Dal Tadka,veg,100g cooked,lunch,323,21.47,42.27,8.12,1.63,3.18,1.12,0.12,0.55,215,172,27
+Rajma,veg,100g cooked,lunch,180,25.98,43.43,7.47,1.72,1.6,1.02,0.08,6.79,572,166,47
+Chole,veg,100g cooked,lunch,102,18.04,20.27,13.59,4.8,4.97,2.77,0.21,2.43,219,70,189
+Mixed Veg Sabzi,veg,100g cooked,lunch,140,11.19,41.74,15.28,4.72,3.53,3.54,0.12,7.14,569,52,140
+Fish Curry,non-veg,100g cooked,lunch,56,17.86,16.15,4.21,2.05,1.13,0.99,0.04,5.62,87,146,102
+Chicken Curry,non-veg,100g cooked,lunch,325,7.17,6.9,4.09,0.9,1.35,0.77,0.04,0.92,573,40,299
+Mushroom Masala,veg,100g cooked,lunch,172,5.47,6.03,11.9,5.19,4.59,1.28,0.08,5.24,500,104,28
+Palak Paneer,veg,100g cooked,lunch,116,2.95,42.99,3.11,1.13,1.06,0.86,0.05,5.41,179,135,111
+Kadhi,veg,100g cooked,lunch,222,12.33,30.31,2.74,1.06,0.95,0.6,0.04,6.88,267,83,250
+Khichdi,veg,100g cooked,lunch,190,4.58,27.99,2.16,0.52,0.54,0.65,0.01,0.76,496,88,89
+Pulao,veg,100g cooked,lunch,195,15.41,34.92,8.11,2.11,2.46,1.27,0.12,0.96,589,62,123
+Quinoa Cooked,veg,100g cooked,lunch,97,17.91,17.1,14.18,5.22,3.35,3.08,0.23,2.6,515,71,90
+Veg Thali,veg,100g cooked,lunch,125,19.54,44.6,2.23,0.78,0.63,0.6,0.04,7.95,136,199,321
+Non-veg Thali,veg,100g cooked,lunch,189,8.73,38.81,11.41,3.4,4.17,2.73,0.04,7.12,137,136,158
+Chicken Biryani,non-veg,100g cooked,lunch,64,9.68,15.71,1.06,0.23,0.23,0.31,0.01,3.9,133,260,304
+Veg Biryani,veg,100g cooked,lunch,198,14.84,18.02,2.4,0.85,0.62,0.27,0.04,2.96,490,71,239
+Paneer Fried Rice,veg,100g cooked,lunch,229,23.5,34.83,9.36,2.42,1.98,2.67,0.08,0.99,324,139,234
+Veg Fried Rice,veg,100g cooked,lunch,147,5.75,11.35,8.3,1.91,2.08,1.54,0.06,2.41,270,211,331
+Chicken Fried Rice,non-veg,100g cooked,lunch,101,15.83,30.58,17.54,6.07,5.12,4.41,0.14,4.57,98,141,79
+Curd Rice,veg,100g cooked,lunch,64,12.29,15.84,13.47,4.01,4.62,1.79,0.07,2.5,115,133,115
+Lemon Rice,veg,100g cooked,lunch,302,11.55,5.86,16.44,3.48,3.73,1.68,0.24,1.48,193,52,344
+Grilled Chicken Breast,non-veg,100g cooked,dinner,152,16.64,16.81,12.04,3.68,3.71,3.39,0.06,7.55,419,248,201
+Grilled Salmon,veg,100g cooked,dinner,277,12.71,34.25,17.21,8.55,3.86,4.93,0.24,6.24,33,83,65
+Baked Fish,non-veg,100g cooked,dinner,148,11.43,18.79,16.07,3.51,6.22,2.71,0.12,7.34,323,242,299
+Tofu Stir Fry,vegan,100g cooked,dinner,42,15.83,7.07,14.75,3.04,5.56,3.63,0.1,6.6,173,246,170
+Tofu Curry,vegan,100g cooked,dinner,198,26.64,34.94,13.04,5.53,2.84,3.89,0.26,5.52,512,167,265
+Moong Dal,veg,100g cooked,dinner,342,2.25,42.67,5.65,2.05,1.82,0.86,0.05,5.28,487,257,240
+Masoor Dal,veg,100g cooked,dinner,94,14.77,7.68,10.08,3.08,3.09,1.94,0.13,3.39,521,154,285
+Urad Dal,veg,100g cooked,dinner,331,21.53,11.26,16.17,4.66,4.16,3.73,0.3,4.08,244,118,80
+Vegetable Soup,veg,100g cooked,dinner,336,13.78,14.31,3.81,1.7,0.93,0.55,0.07,6.21,312,91,211
+Tomato Soup,veg,100g cooked,dinner,323,4.25,28.52,17.46,7.03,6.05,4.62,0.24,3.38,509,162,274
+Chicken Soup,non-veg,100g cooked,dinner,129,5.77,38.52,9.55,3.85,2.14,1.85,0.1,4.05,643,74,275
+Egg Curry,non-veg,100g cooked,dinner,130,24.16,13.0,3.27,1.02,0.94,0.55,0.05,0.51,161,166,69
+Rice + Dal Combo,veg,100g cooked,dinner,125,11.66,33.49,7.7,3.62,3.08,1.01,0.03,7.7,367,245,235
+Dosa + Sambar Combo,veg,100g cooked,dinner,75,22.55,37.75,15.49,4.95,4.41,2.38,0.26,1.22,138,227,88
+Idli + Sambar Combo,veg,100g cooked,dinner,122,1.56,43.96,11.19,4.49,2.72,1.73,0.16,2.16,93,256,283
+Besan Chilla,veg,100g cooked,dinner,260,21.38,28.36,4.5,1.87,1.28,0.66,0.04,5.24,190,110,73
+Ragi Mudde,veg,100g cooked,dinner,289,5.1,10.72,12.79,2.74,4.44,2.33,0.23,1.99,293,158,208
+Stuffed Paratha,veg,100g cooked,dinner,204,17.66,36.97,1.64,0.4,0.63,0.4,0.03,5.35,325,260,253
+Veg Clear Soup,veg,100g cooked,dinner,92,18.79,26.38,10.36,2.91,3.35,1.3,0.13,2.18,364,46,123
+Chicken Clear Soup,non-veg,100g cooked,dinner,186,25.09,14.78,17.36,6.23,4.78,4.57,0.33,1.9,237,20,182
+Paneer Curry,veg,100g cooked,dinner,339,17.15,10.56,4.77,1.44,1.83,1.4,0.04,5.48,650,249,68
+Green Salad,veg,100g cooked,snacks,348,24.54,27.71,9.8,2.0,3.85,1.28,0.19,2.61,38,125,223
+Sprouts Salad,veg,100g cooked,snacks,40,11.14,16.18,13.83,3.21,2.87,3.57,0.17,4.64,575,192,156
+Peanut Butter,veg,100g cooked,snacks,52,18.67,34.38,3.42,1.15,1.11,0.62,0.01,1.02,328,14,231
+Almonds,veg,100g cooked,snacks,191,4.42,16.8,16.64,4.47,3.54,2.45,0.26,6.21,54,115,37
+Walnuts,veg,100g cooked,snacks,294,13.72,29.77,10.5,4.46,3.68,2.55,0.02,1.22,578,138,265
+Cashews,veg,100g cooked,snacks,312,25.89,38.95,13.17,4.84,3.94,2.38,0.25,3.27,416,52,273
+Dates,veg,100g cooked,snacks,232,17.81,42.39,7.8,2.04,1.63,1.2,0.04,6.52,587,167,350
+Raisins,veg,100g cooked,snacks,75,25.77,14.76,2.46,1.1,0.69,0.66,0.0,2.17,61,280,120
+Fruit Bowl,veg,100g cooked,snacks,60,25.6,33.22,14.05,6.6,4.78,1.65,0.21,2.54,228,85,50
+Mixed Nuts,veg,100g cooked,snacks,306,27.5,26.33,5.51,2.25,1.82,0.78,0.1,1.17,91,34,226
+Boiled Corn,veg,100g cooked,snacks,263,25.14,31.74,1.36,0.45,0.44,0.32,0.01,4.22,229,203,349
+Steamed Broccoli,veg,100g cooked,snacks,175,26.0,32.39,13.15,4.48,4.04,2.38,0.21,3.22,410,124,45
+Vegetable Sandwich,veg,100g cooked,snacks,95,15.08,13.16,5.5,2.1,1.45,1.18,0.09,0.65,511,172,296
+Paneer Sandwich,veg,100g cooked,snacks,294,9.79,20.39,0.82,0.28,0.17,0.14,0.0,5.85,251,194,227
+Chicken Sandwich,non-veg,100g cooked,snacks,69,19.68,32.69,2.61,0.74,0.84,0.43,0.03,6.25,343,15,182
+Egg Sandwich,non-veg,100g cooked,snacks,217,6.69,28.69,5.99,1.68,2.26,0.65,0.1,3.95,428,87,126
+Tea,veg,1 cup,snacks,197,7.58,36.24,6.96,3.01,2.61,0.82,0.06,4.34,675,104,256
+Green Tea,veg,1 cup,snacks,286,14.5,10.1,7.17,2.55,2.13,1.43,0.02,5.09,250,280,334
+Hummus,vegan,100g cooked,snacks,49,5.17,21.73,9.96,3.85,3.0,1.11,0.19,7.58,288,233,75
+Sweet Potato (Boiled),veg,100g cooked,snacks,303,25.38,27.64,13.25,3.8,4.0,1.42,0.1,3.48,445,237,45
+Popcorn (Air Popped),veg,100g cooked,snacks,176,15.8,10.82,2.55,1.21,0.85,0.35,0.02,1.57,672,148,235
+Yogurt Cup,veg,1 cup,snacks,80,4.43,25.06,4.77,1.62,1.54,1.0,0.06,1.26,449,141,103
+Protein Bar,veg,1 bar,snacks,336,1.53,15.76,16.01,3.5,6.36,1.68,0.31,4.69,348,134,219
+Banana,veg,1 piece / bowl,snacks,175,12.16,18.88,2.9,1.21,0.81,0.57,0.06,6.93,508,228,175
+Apple,veg,1 piece / bowl,snacks,274,26.84,33.82,1.28,0.51,0.29,0.37,0.02,3.09,474,255,261
+Papaya,veg,1 piece / bowl,snacks,304,20.82,31.3,14.74,4.9,3.95,1.83,0.18,0.98,354,187,108
+Mango,veg,1 piece / bowl,snacks,215,1.73,27.17,12.36,3.43,3.13,1.63,0.01,6.92,541,68,86
+Orange,veg,1 piece / bowl,snacks,221,22.62,32.46,15.0,7.18,5.87,3.36,0.23,5.49,627,237,255
+Grapes,veg,1 piece / bowl,snacks,262,17.27,38.97,2.98,0.77,0.86,0.56,0.01,2.14,460,68,150
+Pomegranate,veg,1 piece / bowl,snacks,66,11.53,21.03,0.85,0.23,0.29,0.13,0.01,5.94,579,139,167
+Trail Mix,veg,100g cooked,snacks,46,18.47,11.47,1.21,0.6,0.33,0.17,0.01,7.86,72,196,129
+Energy Bar,veg,1 bar,snacks,100,16.98,16.23,13.47,5.31,3.44,1.99,0.12,2.67,40,172,268
+Cheese Cubes,veg,100g cooked,snacks,180,14.02,17.98,14.91,3.4,3.78,3.6,0.03,1.61,109,269,288
+Tofu Cubes,vegan,100g cooked,snacks,341,5.11,26.65,10.1,4.48,3.0,1.7,0.06,7.36,699,180,23
