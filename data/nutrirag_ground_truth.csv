@@ -1,0 +1,16 @@
+query,relevant_foods
+Build me a vegetarian diet plan,Veg Sandwich|Sprouts Salad|Vegetable Soup|Dal Tadka
+Build me a non vegetarian diet plan,Scrambled Eggs|Fish Curry|Egg Curry|Chicken Soup
+High protein vegetarian dinner,Urad Dal|Besan Chilla|Paneer Curry
+High protein non veg dinner,Chicken Clear Soup|Egg Curry|Grilled Chicken Breast
+Low calorie vegetarian lunch,Veg Clear Soup|Sprouts Salad
+High carb breakfast,Oats Porridge|Poha|Upma
+High protein snacks,Protein Bar|Mixed Nuts|Sprouts Salad
+Low calorie snacks,Fruit Bowl|Veg Clear Soup
+Vegetarian snack options,Veg Sandwich|Sprouts Salad
+Non veg breakfast,Scrambled Eggs|Egg Sandwich
+Vegetarian dinner,Vegetable Soup|Dal Tadka|Besan Chilla
+Protein rich lunch,Fish Curry|Paneer Curry|Chicken Curry
+Low fat dinner,Veg Clear Soup|Grilled Chicken Breast
+High protein breakfast,Scrambled Eggs|Protein Oats|Protein Shake
+Light dinner,Vegetable Soup|Chicken Clear Soup

@@ -60,3 +60,6 @@ def load_data(load_path = '../data/data.csv'):
         points=points
         )
     return client
+
+if __name__=="__main__":
+    load_data()
