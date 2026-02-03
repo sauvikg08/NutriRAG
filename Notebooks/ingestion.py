@@ -1,17 +1,6 @@
 import pandas as pd
-from qdrant_client import QdrantClient, models
-client = QdrantClient("http://localhost:6333")
-
-model_handle =  "BAAI/bge-small-en-v1.5"
-collection_name = 'NutriRAG'
-
-client.recreate_collection(                     #If collection already exists
-    collection_name = collection_name,
-    vectors_config = models.VectorParams(
-        size = 384,
-        distance=models.Distance.COSINE
-    )
-)
+from qdrant_client import models
+from collection import client, create_collection, model_handle, collection_name
 
 points = []
 id = 0
@@ -62,4 +51,5 @@ def load_data(load_path = '../data/data.csv'):
     return client
 
 if __name__=="__main__":
+    create_collection()
     load_data()
