@@ -12,3 +12,18 @@ def create_collection():
             distance=models.Distance.COSINE
         )
     )
+
+    client.create_payload_index(
+    collection_name = collection_name,
+    field_name = 'meal_type',
+    field_schema = 'keyword'
+)
+
+
+
+
+client.create_payload_index(
+    collection_name = collection_name,
+    field_name = 'food_type',
+    field_schema = 'keyword'
+)
