@@ -1,0 +1,7 @@
+fastapi
+pandas
+numpy
+qdrant_client
+pydantic
+uvicorn
+google-generativeai
