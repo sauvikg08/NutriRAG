@@ -46,5 +46,33 @@ In a production system, this pipeline would operate on a validated nutrition dat
 
 Key intent: Show RAG system design, not nutrition correctness.
 
+## Technologies
+
+* Python 3.12.1
+* Qdrant for data retrieval
+* FastAPI as API Interface
+* Google Gemini as LLM
+
+## Preparation:
+
+The project was prepared in codespaces under VSCode. 
+To use Qdrant for retrieval, a file `run_qdrant.sh` was created. 
+The file had the required steps for starting the qdrant application:
+```bash
+docker run -p 6333:6333 -p 6334:6334 \
+    -v "$(pwd)/qdrant_storage:/qdrant/storage" \
+    qdrant/qdrant
+```
+This was run in the beginning using:
+```bash
+chmod +x run_qdrant.sh
+
+```
+followed by
+```bash
+./run_qdrant.sh
+```
+
+
 
 
