@@ -2,8 +2,7 @@ import pandas as pd
 from qdrant_client import models
 from collection import client, create_collection, model_handle, collection_name
 
-points = []
-id = 0
+
 def load_data(load_path = '../data/data.csv'):
     data = pd.read_csv(load_path)
     documents = data.to_dict(orient = 'records')
